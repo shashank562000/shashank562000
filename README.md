@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Shashank Rai**
 
-I’m a passionate **Backend Engineer (SDE-2)** who thrives on architecting reliable, scalable, and AI-integrated systems. With deep hands-on experience in designing complex backend solutions, I build APIs that don't just serve — they **scale, secure, and evolve**.
+I’m a passionate **Backend Engineer** who thrives on architecting reliable, scalable, and AI-integrated systems. With deep hands-on experience in designing complex backend solutions, I build APIs that don't just serve — they **scale, secure, and evolve**.
 
 ---
 
@@ -25,13 +25,13 @@ I’m a passionate **Backend Engineer (SDE-2)** who thrives on architecting reli
 
 | 💻 Languages | ⚙️ Backend & Dev | 🧠 AI & Tools | ☁️ Cloud & Infra |
 |-------------|------------------|---------------|------------------|
-| JavaScript, TypeScript | Node.js, Express, Fastify | OpenAI, Gemini Pro, DeepSeek, Textract | AWS (EC2, S3, RDS, App Runner) |
+| JavaScript, TypeScript | Node.js, Express, Fastify | OpenAI, Gemini Pro, DeepSeek, Textract | AWS (EC2, S3, RDS, App Runner,SQS, SNS, Lambda functions) |
 | Shell, Python (basic scripting) | Prisma, Sequelize, RESTful APIs, Microservices | LangChain (in progress) | Docker, CI/CD, GitHub Actions |
 | SQL, MongoDB | Redis, Cron Jobs, Webhooks, FCM | Image/PDF Parsing | Linux, Nginx, PM2 |
 
 ---
 
-## 🧩 What I Bring as an SDE-2
+## 🧩 What I Bring as a backend developer
 
 - ✅ 3+ years of backend development experience in **production-scale systems**
 - 🔐 Expertise in **secure API design**, access control, and JWT/OAuth2 mechanisms
