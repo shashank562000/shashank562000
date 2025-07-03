@@ -1,45 +1,65 @@
-# 👋 Hello, I'm S.K. Rai
+# 👋 Hey there, I'm **Shashank Rai**
 
-I'm a **Backend Developer** with a strong focus on building scalable, secure, and high-performance APIs and server-side applications. I specialize in Node.js and have experience working across a wide range of industries including e-commerce, healthcare, ticketing, finance, events, and AI-powered document processing.
+I’m a passionate **Backend Engineer (SDE-2)** who thrives on architecting reliable, scalable, and AI-integrated systems. With deep hands-on experience in designing complex backend solutions, I build APIs that don't just serve — they **scale, secure, and evolve**.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 I’ve developed and maintained **production-grade backend systems** for:
-  - 🛒 **E-commerce** platform – built complete product, order, user & payment modules
-  - 🏥 **Hospital Management System** – managed appointments, doctor schedules, billing, and patient data
-  - 🎟️ **Ticket Booking App** – real-time seat availability, bookings, and notifications
-  - 🔁 **Onsfer Backend** – push notification system, real-time updates, and secure user authentication
-  - 🎉 **Event Management System** – dynamic event creation, RSVPs, ticketing, and analytics
-  - 🧾 **OCR-powered Document Management (iDocx)** – integrated **DeepSeek-VL2**, **Google Gemini Pro**, **OpenAI GPT-4 Vision**, and **Amazon Textract** for extracting and understanding data from PDFs and images
+🔧 I specialize in **backend architecture**, **API development**, and **AI-integrated systems** using modern JavaScript/TypeScript stacks.
 
-- 🧠 I love integrating **AI and large language models** with backend systems to create intelligent applications.
+💼 Over the years, I've engineered robust backend systems across diverse domains:
 
-- 🧰 **Tech Stack**:
-  - Languages: `JavaScript`, `TypeScript`
-  - Runtime: `Node.js`
-  - Frameworks: `Express`, `Fastify`
-  - Databases: `MySQL`, `PostgreSQL`, `MongoDB`
-  - ORM: `Prisma`, `Sequelize`
-  - DevOps: `Docker`, `AWS EC2`, `RDS`, `S3`, `App Runner`
-  - AI & OCR: `OpenAI GPT`, `Gemini Pro`, `DeepSeek`, `Textract`
+- 🛒 **E-Commerce Platform** – handled full backend including products, orders, cart, payments, user management, and admin dashboards
+- 🏥 **Hospital Management System** – appointment flow, patient-doctor modules, secure health records, and billing
+- 🎟️ **Ticket Booking App** – built scalable ticketing logic with real-time availability and notifications
+- 🔁 **Onsfer Platform** – implemented push notifications, user messaging, real-time updates, and background workers
+- 🎉 **Event Management System** – multi-role access, ticketing, QR scanning, and event analytics
+- 🧾 **iDocx: AI-powered OCR System** – used **DeepSeek-VL2**, **Gemini Pro**, **GPT-4 Vision**, and **Textract** for intelligent document parsing
 
-- 🔐 Strong understanding of authentication (`JWT`, `OAuth2`), access control, and secure API design
-
-- 📦 Clean architecture, modular codebase, and production-ready deployment
+🧠 I’m obsessed with integrating **LLMs and OCR engines** with backend systems — turning raw documents and images into structured, searchable insights.
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Tech Stack
 
-- 📧 Email: shashank562000@gmail.com  
+| 💻 Languages | ⚙️ Backend & Dev | 🧠 AI & Tools | ☁️ Cloud & Infra |
+|-------------|------------------|---------------|------------------|
+| JavaScript, TypeScript | Node.js, Express, Fastify | OpenAI, Gemini Pro, DeepSeek, Textract | AWS (EC2, S3, RDS, App Runner) |
+| Shell, Python (basic scripting) | Prisma, Sequelize, RESTful APIs, Microservices | LangChain (in progress) | Docker, CI/CD, GitHub Actions |
+| SQL, MongoDB | Redis, Cron Jobs, Webhooks, FCM | Image/PDF Parsing | Linux, Nginx, PM2 |
+
+---
+
+## 🧩 What I Bring as an SDE-2
+
+- ✅ 3+ years of backend development experience in **production-scale systems**
+- 🔐 Expertise in **secure API design**, access control, and JWT/OAuth2 mechanisms
+- 🧱 Deep understanding of **database design**, **ORM optimization**, and **query performance**
+- 🧪 Test-driven development with **Jest**, **Postman**, and custom unit/integration suites
+- ⚙️ Experience with **scaling**, **refactoring**, and **multi-service architecture**
+- 🧹 Advocate of **clean code**, **modular structure**, and **SOLID principles**
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [shashank562000@gmail.com](mailto:shashank562000@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/shashankrai-8729b1184/)  
-- 🧑‍💻 Portfolio: 
+- 🌐 Portfolio: *(coming soon)*  
+- 🧑‍💻 GitHub Repos: [Explore my projects →](https://github.com/skrai-dev)
 
 ---
 
-## 🧾 Fun Fact
+## 🌟 Fun Fact
 
-> I build backends that talk to AI like a boss 🤖 — extracting knowledge from documents, images, and user input to power smart systems.
+> I don’t just write code — I architect **systems that think**, act, and scale — powered by AI, stitched with clean APIs, and deployed with cloud-native precision 🚀
 
+---
+
+## 🧭 Currently Exploring
+
+- 🧬 Vector DBs & RAG with LLMs
+- 🛠️ Building SaaS starter templates for scalable backends
+- 🧠 AI Agent frameworks (AutoGPT, LangChain)
+- 📦 Serverless APIs and Lambda architecture
