@@ -25,7 +25,7 @@ I’m a passionate **Backend Engineer** who thrives on architecting reliable, sc
 
 | 💻 Languages | ⚙️ Backend & Dev | 🧠 AI & Tools | ☁️ Cloud & Infra |
 |-------------|------------------|---------------|------------------|
-| JavaScript, TypeScript | Node.js, Express, Fastify | OpenAI, Gemini Pro, DeepSeek, Textract | AWS (EC2, S3, RDS, App Runner,SQS, SNS, Lambda functions) |
+| JavaScript, TypeScript | Node.js, Express, Fastify | OpenAI, Gemini Pro, DeepSeek, Textract | AWS (EC2, S3, RDS, App Runner, SQS, SNS, AWS Lambda) |
 | Shell, Python (basic scripting) | Prisma, Sequelize, RESTful APIs, Microservices | LangChain (in progress) | Docker, CI/CD, GitHub Actions |
 | SQL, MongoDB | Redis, Cron Jobs, Webhooks, FCM | Image/PDF Parsing | Linux, Nginx, PM2 |
 
